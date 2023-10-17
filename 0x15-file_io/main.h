@@ -2,7 +2,7 @@
 #define _MAIN_H_
 
 /*
- * File: holberton.h
+ * File: file io
  * Auth: Frankline Kimeria (almasi2)
  * Desc: Prototypes for all functions are contained here.
  */
